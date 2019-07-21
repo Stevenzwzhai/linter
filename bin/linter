@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+var lint = require('../lib/index.js');
+lint();
