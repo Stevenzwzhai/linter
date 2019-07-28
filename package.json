@@ -12,7 +12,7 @@
     "test": "npm run ./test"
   },
   "bin": {
-      "linter": './bin/linter'
+    "linter": "./bin/linter"
   },
   "repository": {
     "type": "git",
@@ -36,11 +36,17 @@
     "eslint-config-xo": "^0.26.0",
     "eslint-plugin-prettier": "^3.1.0",
     "find-parent-dir": "^0.3.0",
+    "humps": "^2.0.1",
+    "ora": "^3.4.0",
     "pify": "^4.0.1",
-    "staged-git-files": "^1.2.0"
+    "staged-git-files": "^1.2.0",
+    "stylelint-config-standard": "^18.3.0"
   },
   "devDependencies": {
     "@types/node": "^12.6.8",
+    "eslint-config-ivweb": "^0.1.5",
+    "stylelint": "^10.1.0",
+    "tslint-config-ivweb": "^1.0.3",
     "typescript": "^3.5.3"
   }
 }

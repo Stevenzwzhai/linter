@@ -1,0 +1,11 @@
+{
+  "extends": [
+    "tslint-config-ivweb"
+  ],
+  "linterOptions": {
+    "exclude": [
+      "node_modules/**/*.ts"
+    ]
+  },
+  "rules": {}
+}

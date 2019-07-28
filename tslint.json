@@ -1,0 +1,9 @@
+{
+  "extends": ["tslint-config-ivweb"],
+  "linterOptions": {
+    "exclude": ["**/node_modules/**"]
+  },
+  "rules": {
+    // your own special config rule
+  }
+}
