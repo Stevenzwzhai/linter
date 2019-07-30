@@ -27,4 +27,4 @@ export default function linter() {
         default:
     }
 }
-module.exports = exports.defualt;
+module.exports = exports.default;
