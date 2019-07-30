@@ -1,6 +1,6 @@
 {
   "name": "linters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tool for checking code",
   "main": "./lib/index.js",
   "scripts": {
