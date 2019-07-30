@@ -1,5 +1,5 @@
 {
-  "name": "linter",
+  "name": "linters",
   "version": "0.0.1",
   "description": "A tool for checking code",
   "main": "./lib/index.js",
