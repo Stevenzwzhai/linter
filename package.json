@@ -1,6 +1,6 @@
 {
   "name": "linters",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A tool for checking code",
   "main": "./lib/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "test": "npm run ./test"
   },
   "bin": {
-    "linter": "./bin/linter"
+    "linters": "./bin/linters"
   },
   "repository": {
     "type": "git",
